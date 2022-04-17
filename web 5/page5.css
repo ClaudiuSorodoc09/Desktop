@@ -1,0 +1,62 @@
+section p:nth-child(2) {
+    color: rgb(3, 1, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 35;
+}
+section p:nth-child(4) {
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    
+    
+}
+p {
+    background-color: rgb(164, 164, 199);
+    color:rgb(255, 255, 255);
+    border: 20px solid rgb(62, 110, 90);
+    padding: 3em;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1 {
+    background-color: #92b392;
+    color: #993574;
+    padding: 2em;
+    font-family:cursive;
+}
+body {
+    background-color: rgb(170, 146, 177);
+    background-image: url(ee.jpg);
+}
+section p:nth-child(1) {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+section p:nth-child(3) {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+#one{text-align: center; box-shadow: 0 0 60px #8e37a0;}
+#two{ border: 5px solid #2c5757;text-align: center;
+    letter-spacing: 1px;margin: 0 9px;}
+    #three{ border: 5px solid #2c5757;text-align: center;
+        letter-spacing: 1px;}
+        #four{ border: 5px solid #2c5757;text-align: center;
+            letter-spacing: 1px;margin: 0 9px;}
+            #five{ border: 5px solid #2c5757;text-align: center;
+                letter-spacing: 1px;}
+                #square {
+                    color: rgb(145, 138, 45);
+                    height: 130px;
+                    width: 280px;
+                    background-color: #555;position: absolute; left: 400px; top: 20px;
+                font-size: 60px;text-align: center;transform: skew(-20deg);box-shadow: 0 0 60px #2bff00;}
+                #square2 {
+                    color: rgb(163, 146, 47);
+                    height: 130px;
+                    width: 280px;
+                    background-color: #555;position: absolute; left: 727px; top: 20px;
+                font-size: 60px;text-align: center;transform: skew(20deg);box-shadow: 0 0 60px #2bff00;}

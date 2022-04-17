@@ -1,0 +1,32 @@
+p {
+    background-color: rgb(164, 164, 216);
+    color:rgb(14, 11, 11);
+    border: 50px solid rgb(140, 136, 143);
+    padding: 1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h1 {
+    background-color: #010f0e;
+    padding: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;  
+      
+}
+body{
+    background-color:rgb(73, 168, 81)
+}
+#one{border: 5px solid #42423b;
+    border-radius: 35px;
+color: rgb(88, 173, 113); box-shadow: 0 0 30px #92808e;padding: 15px 10px;font-weight: 300;}
+#two{border: 5px solid #46453c;
+        border-radius: 5px; letter-spacing: 1px; box-shadow: 0 0 40px #5f525e;font-weight: 300;}
+#three{border: 5px solid #40413a;
+            border-radius: 5px; letter-spacing: 1px; box-shadow: 0 0 40px #8a7789;font-weight: 300;}
+#four{border: 5px solid #343531;
+                border-radius: 5px; letter-spacing: 1px; box-shadow: 0 0 40px #91778b;font-weight: 300;}
+#five{border: 5px solid #42423b;
+                    border-radius: 5px; letter-spacing: 1px; box-shadow: 0 0 40px #816a7c;font-weight: 300;}
+#six{border: 5px solid #363633;
+                        border-radius: 5px; letter-spacing: 1px; box-shadow: 0 0 40px #9b7b96;font-weight: 300;}
+#seven{border:5px solid #363633 ;
+    border-radius: 5px; letter-spacing: 1px; box-shadow: 0 0 40px #968190;font-weight: 300;}
